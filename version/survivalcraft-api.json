@@ -1,0 +1,413 @@
+{
+  "0": {
+    "id": 326466,
+    "tag_name": "api1.52",
+    "target_commitish": "38e7cdf0a7eb03c803b95643147246b65baaeab4",
+    "prerelease": false,
+    "name": "API1.52",
+    "body": "**完整的更新日志**: https://gitee.com/zaihuishouzh/survivalcraft-api/commits/api1.52\r\n",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2023-08-07T17:09:21+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.52/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.52%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95.7z",
+        "name": "生存战争2.3插件版API1.52渲染测试.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.52/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.52%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95.apk",
+        "name": "生存战争2.3插件版API1.52渲染测试.apk"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.52.zip",
+        "name": "api1.52.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.52.tar.gz",
+        "name": "api1.52.tar.gz"
+      }
+    ]
+  },
+  "1": {
+    "id": 339945,
+    "tag_name": "api1.44",
+    "target_commitish": "ed45c8801243b96bfde0faa1d8c5abaa9aeec0ca",
+    "prerelease": false,
+    "name": "api1.44",
+    "body": "api1.44",
+    "author": {
+      "id": 8326477,
+      "login": "xiaoxiaoguai0514",
+      "name": "xiaoxiaoguai",
+      "avatar_url": "https://foruda.gitee.com/avatar/1706781829505565173/8326477_xiaoxiaoguai0514_1706781829.png",
+      "url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514",
+      "html_url": "https://gitee.com/xiaoxiaoguai0514",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/followers",
+      "following_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/repos",
+      "events_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/received_events",
+      "type": "User"
+    },
+    "created_at": "2023-09-27T15:08:31+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-25%20182737.png",
+        "name": "屏幕截图 2024-04-25 182737.png"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.44.Apk.archive.7z",
+        "name": "生存战争2.3插件版API1.44.Apk.archive.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.44%E9%9F%B3%E9%A2%91%E5%85%BC%E5%AE%B9%E7%89%88.Apk.archive.7z",
+        "name": "生存战争2.3插件版API1.44音频兼容版.Apk.archive.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-25%20182859.png",
+        "name": "屏幕截图 2024-04-25 182859.png"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%94%B5%E8%84%91%E7%89%88API1.44.zip",
+        "name": "生存战争2.3插件电脑版API1.44.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.44.zip",
+        "name": "api1.44.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.44.tar.gz",
+        "name": "api1.44.tar.gz"
+      }
+    ]
+  },
+  "2": {
+    "id": 339948,
+    "tag_name": "api1.33",
+    "target_commitish": "aef756e8f879fd111c867ace10a237ec320fdfc6",
+    "prerelease": false,
+    "name": "api1.33",
+    "body": "api1.33",
+    "author": {
+      "id": 8326477,
+      "login": "xiaoxiaoguai0514",
+      "name": "xiaoxiaoguai",
+      "avatar_url": "https://foruda.gitee.com/avatar/1706781829505565173/8326477_xiaoxiaoguai0514_1706781829.png",
+      "url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514",
+      "html_url": "https://gitee.com/xiaoxiaoguai0514",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/followers",
+      "following_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/repos",
+      "events_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/xiaoxiaoguai0514/received_events",
+      "type": "User"
+    },
+    "created_at": "2023-09-27T15:12:58+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.33.zip",
+        "name": "api1.33.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.33.tar.gz",
+        "name": "api1.33.tar.gz"
+      }
+    ]
+  },
+  "3": {
+    "id": 346740,
+    "tag_name": "api1.53P",
+    "target_commitish": "662b8e2eefa62543e05936c719f839694c77ff56",
+    "prerelease": false,
+    "name": "API1.53P",
+    "body": "修复安卓权限问题，久经考验，稳定可靠，强烈推荐在1.6不能加载时使用此版本",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2023-10-29T22:37:25+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.53P/%5B%E7%94%B5%E8%84%91%5D%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%881.53P.7z",
+        "name": "[电脑]生存战争2.3插件版1.53P.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.53P/API1.53%E6%9D%83%E9%99%90%E4%BF%AE%E5%A4%8D%E7%89%88.APK",
+        "name": "API1.53权限修复版.APK"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.53P.zip",
+        "name": "api1.53P.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/api1.53P.tar.gz",
+        "name": "api1.53P.tar.gz"
+      }
+    ]
+  },
+  "4": {
+    "id": 372059,
+    "tag_name": "Api1.60P",
+    "target_commitish": "a81b28d088daa24bdf439beb737ebe07e60a8ddf",
+    "prerelease": false,
+    "name": "API1.60",
+    "body": "不建议使用此版本，仅作为归档",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2024-02-03T11:44:30+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/Api1.60P/SCAPI1.6Nano.7z",
+        "name": "SCAPI1.6Nano.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/Api1.60P.zip",
+        "name": "Api1.60P.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/Api1.60P.tar.gz",
+        "name": "Api1.60P.tar.gz"
+      }
+    ]
+  },
+  "5": {
+    "id": 373107,
+    "tag_name": "API1.61N",
+    "target_commitish": "d44aa228f354d35bfafa992ffa729d104b189e91",
+    "prerelease": false,
+    "name": "1.61N",
+    "body": "玩家再也不用下载sdk了，运行时即可运行",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2024-02-08T22:50:49+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.61N/SCAPI1.61N%E5%AE%89%E5%8D%93.APK",
+        "name": "SCAPI1.61N安卓.APK"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.61N/SCAPI1.61N-pico-%E7%94%B5%E8%84%91%E7%89%88-%E7%83%AD%E4%BF%AE%E5%A4%8D.exe",
+        "name": "SCAPI1.61N-pico-电脑版-热修复.exe"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/API1.61N.zip",
+        "name": "API1.61N.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/API1.61N.tar.gz",
+        "name": "API1.61N.tar.gz"
+      }
+    ]
+  },
+  "6": {
+    "id": 388324,
+    "tag_name": "1.61Q",
+    "target_commitish": "bc604215ad7b68de142ba94adb21479f6794eb92",
+    "prerelease": false,
+    "name": "1.61Q",
+    "body": "1.61Q\r\n以后版本不分PN\r\n由A递增至Z",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2024-03-21T23:03:52+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/1.61Q/SCAPI1.61Q%E7%94%B5%E8%84%91%E7%89%88.7z",
+        "name": "SCAPI1.61Q电脑版.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/1.61Q.zip",
+        "name": "1.61Q.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/1.61Q.tar.gz",
+        "name": "1.61Q.tar.gz"
+      }
+    ]
+  },
+  "7": {
+    "id": 394257,
+    "tag_name": "1.61X_",
+    "target_commitish": "293acbedb2a18906862f6c61d65aa8b5def4ac2d",
+    "prerelease": false,
+    "name": "1.61X_",
+    "body": "安卓显示版本为1.61Q，不影响使用，稳定版本推荐使用",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2024-04-14T01:47:38+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/1.61X_/%5B%E7%94%B5%E8%84%91%E7%89%88%5DSCAPI_1.61X_Win64.7z",
+        "name": "[电脑版]SCAPI_1.61X_Win64.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/1.61X_/SCAPI_1.61Q_A64.APK",
+        "name": "SCAPI_1.61Q_A64.APK"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/1.61X_.zip",
+        "name": "1.61X_.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/1.61X_.tar.gz",
+        "name": "1.61X_.tar.gz"
+      }
+    ]
+  },
+  "8": {
+    "id": 397341,
+    "tag_name": "API1.63",
+    "target_commitish": "8fcfd0fc2fb932ebe2d112255105e729105760a4",
+    "prerelease": false,
+    "name": "API1.63",
+    "body": "API已经更新到1.63，以下为更新报告\r\n1.使用了ImageSharp库，支持Webp、Gif、Pbm、Qoi、Tiff、Tga格式，Jpg不偏色。Webp比Png小50%，加载快20%，Content.zip中Png已换为Webp。Png加载提速50%。使用Nuget包SixLabors.ImageSharp进行图片处理，如裁剪、缩放、滤镜等，注意不将此dll打包进mod。\r\n2.Image.Pixels变为只读属性，新增m_trueImage字段和ProcessPixels、ProcessPixelRows方法，用于处理像素。示例：将透明度设为128或复制像素到Color数组。\r\n支持Flac、Mp3音频格式，Flac须为16位深。Content.zip中Wav已换为Flac，体积小且解码快。使用NAudio库加载更多小众格式音频。\r\nJson加载库更换为System.Text.Json，更严格，如有多余逗号会报错。请规范Json文件。\r\n大部分模组仍然兼容，少部分模组需要更换引用\r\n\r\n电脑下载exe字样版本，手机下载apk版本",
+    "author": {
+      "id": 11239518,
+      "login": "THPRC",
+      "name": "把红色赋予黑海",
+      "avatar_url": "https://gitee.com/assets/no_portrait.png",
+      "url": "https://gitee.com/api/v5/users/THPRC",
+      "html_url": "https://gitee.com/THPRC",
+      "remark": "",
+      "followers_url": "https://gitee.com/api/v5/users/THPRC/followers",
+      "following_url": "https://gitee.com/api/v5/users/THPRC/following_url{/other_user}",
+      "gists_url": "https://gitee.com/api/v5/users/THPRC/gists{/gist_id}",
+      "starred_url": "https://gitee.com/api/v5/users/THPRC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gitee.com/api/v5/users/THPRC/subscriptions",
+      "organizations_url": "https://gitee.com/api/v5/users/THPRC/orgs",
+      "repos_url": "https://gitee.com/api/v5/users/THPRC/repos",
+      "events_url": "https://gitee.com/api/v5/users/THPRC/events{/privacy}",
+      "received_events_url": "https://gitee.com/api/v5/users/THPRC/received_events",
+      "type": "User"
+    },
+    "created_at": "2024-04-25T13:41:40+08:00",
+    "assets": [
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/API163RE.exe.7z",
+        "name": "API163RE.exe.7z"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SCAPI1.63_A64.APK",
+        "name": "SCAPI1.63_A64.APK"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/API1.63.zip",
+        "name": "API1.63.zip"
+      },
+      {
+        "browser_download_url": "https://gitee.com/THPRC/survivalcraft-api/archive/refs/tags/API1.63.tar.gz",
+        "name": "API1.63.tar.gz"
+      }
+    ]
+  },
+  "lastSynced": "11:01:19 PM"
+}

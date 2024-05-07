@@ -15,10 +15,6 @@ async function start() {
             console.log('An error occurred when trying to make a request to the Gitee API...')
             continue
         }
-        if (typeof data?.tag_name !== 'string') {
-            console.log(`Ok... That couldn't happen, ${path} doesn't contain a tag_name?!`)
-            continue
-        }
 
         const json = JSON.stringify({
             ...data,

@@ -3,11 +3,11 @@ import { writeFileSync } from 'fs'
 import fs from "fs";
 
 async function start() {
-    const panels = [
-        { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api' }
+    const apis = [
+        { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api', cors:true }
     ]
     await fs.promises.mkdir("./version", { recursive: true })
-    for (const { name, path } of panels) {
+    for (const { name, path,cors } of apis) {
         const response = await fetch(`https://gitee.com/api/v5/repos/${path}/releases`)
         const data: GiteeRelease[] = await response.json();
         const result: ReleaseTypes[] = [];
@@ -17,10 +17,10 @@ async function start() {
         }
         for (const release of data) {
             if (!release?.assets) continue;
-            result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors: true })
+            result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors })
         }
         const json = JSON.stringify({
-            data: data,
+            data: result,
             versions: "data",
             lastSynced: new Date().toLocaleTimeString()
         }, null, 2)

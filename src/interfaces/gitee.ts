@@ -35,3 +35,13 @@ export interface GiteeRelease {
     created_at: string;
     assets:Asset[];
 }
+
+/**
+ * Release of app
+ */
+export interface ReleaseTypes {
+    ident: string,
+    name: string,
+    link: string,
+    cors:boolean
+} 

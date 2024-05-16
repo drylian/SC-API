@@ -9,14 +9,13 @@ async function start() {
     await fs.promises.mkdir("./version", { recursive: true })
     for (const { name, path } of panels) {
         const response = await fetch(`https://gitee.com/api/v5/repos/${path}/releases`)
-        const data = await response.json() as GiteeRelease
+        const data: GiteeRelease[] = await response.json();
         const result: ReleaseTypes[] = [];
         if (!response.ok) {
             console.log('An error occurred when trying to make a request to the Gitee API...')
             continue
         }
-        const releases: GiteeRelease[] = await response.json()
-        for (const release of releases) {
+        for (const release of data) {
             if (!release?.assets) continue;
             result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors: true })
         }

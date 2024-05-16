@@ -15,7 +15,7 @@ async function start() {
             console.log('An error occurred when trying to make a request to the Gitee API...')
             continue
         }
-        const releases: GiteeRelease[] = Object.values(await response.json());
+        const releases: GiteeRelease[] = await response.json()
         for (const release of releases) {
             if (!release?.assets) continue;
             result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors: true })

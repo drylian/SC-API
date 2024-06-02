@@ -17,10 +17,10 @@ async function start() {
         }
         for (const release of data) {
             if (!release?.assets) continue;
-            result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors })
+            result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release) })
         }
         const json = JSON.stringify({
-            configs:{
+            config:{
                 label:"Survivalcraft-API",
                 cors:true,
                 restart:true,

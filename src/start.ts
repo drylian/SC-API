@@ -4,10 +4,10 @@ import fs from "fs";
 
 async function start() {
     const apis = [
-        { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api', cors:true }
+        { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api' }
     ]
     await fs.promises.mkdir("./version", { recursive: true })
-    for (const { name, path,cors } of apis) {
+    for (const { name, path } of apis) {
         const response = await fetch(`https://gitee.com/api/v5/repos/${path}/releases`)
         const data: GiteeRelease[] = await response.json();
         const result: ReleaseTypes[] = [];
@@ -17,7 +17,8 @@ async function start() {
         }
         for (const release of data) {
             if (!release?.assets) continue;
-            result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release) })
+            const link = getDownloadLink(release);
+            if(link) result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release) })
         }
         const json = JSON.stringify({
             config:{
@@ -26,8 +27,7 @@ async function start() {
                 restart:true,
                 settings_loc:["doc/Settings.xml", "Settings.xml"]
             },
-            data: result,
-            versions: "data",
+            list: result,
             lastSynced: new Date().toLocaleTimeString()
         }, null, 2)
 

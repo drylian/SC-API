@@ -1,6 +1,6 @@
 {
   "config": {
-    "label": "Survivalcraft-API",
+    "api": "Survivalcraft-API",
     "cors": true,
     "restart": true,
     "settings_loc": [
@@ -45,5 +45,5 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SurvivalcraftAPI_TST_16368.7z"
     }
   ],
-  "lastSynced": "10:55:04 PM"
+  "lastSynced": "10:57:05 PM"
 }

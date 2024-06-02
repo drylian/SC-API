@@ -1,4 +1,13 @@
 {
+  "configs": {
+    "label": "Survivalcraft-API",
+    "cors": true,
+    "restart": true,
+    "settings_loc": [
+      "doc/Settings.xml",
+      "Settings.xml"
+    ]
+  },
   "data": [
     {
       "ident": "326466",
@@ -56,5 +65,5 @@
     }
   ],
   "versions": "data",
-  "lastSynced": "9:15:19 PM"
+  "lastSynced": "10:44:00 PM"
 }

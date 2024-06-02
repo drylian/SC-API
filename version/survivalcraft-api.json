@@ -8,7 +8,7 @@
       "Settings.xml"
     ]
   },
-  "data": [
+  "list": [
     {
       "ident": "326466",
       "name": "api1.52",
@@ -20,11 +20,6 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.44.Apk.archive.7z"
     },
     {
-      "ident": "339948",
-      "name": "api1.33",
-      "link": ""
-    },
-    {
       "ident": "346740",
       "name": "api1.53P",
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.53P/%5B%E7%94%B5%E8%84%91%5D%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%881.53P.7z"
@@ -33,11 +28,6 @@
       "ident": "372059",
       "name": "Api1.60P",
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/Api1.60P/SCAPI1.6Nano.7z"
-    },
-    {
-      "ident": "373107",
-      "name": "API1.61N",
-      "link": ""
     },
     {
       "ident": "388324",
@@ -55,6 +45,5 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SurvivalcraftAPI_TST_16368.7z"
     }
   ],
-  "versions": "data",
-  "lastSynced": "10:44:36 PM"
+  "lastSynced": "10:55:04 PM"
 }

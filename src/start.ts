@@ -1,7 +1,12 @@
 import { GiteeRelease, ReleaseTypes } from "./interfaces/gitee"
 import { writeFileSync } from 'fs'
 import fs from "fs";
-
+const config = {
+    api:"Survivalcraft-API",
+    cors:true,
+    restart:true,
+    settings_loc:["doc/Settings.xml", "Settings.xml"]
+};
 async function start() {
     const apis = [
         { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api' }
@@ -18,15 +23,9 @@ async function start() {
         for (const release of data) {
             if (!release?.assets) continue;
             const link = getDownloadLink(release);
-            if(link) result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release) })
+            if(link) result.push({ ...config, ident: String(release.id), name: release.tag_name, link: getDownloadLink(release) })
         }
         const json = JSON.stringify({
-            config:{
-                api:"Survivalcraft-API",
-                cors:true,
-                restart:true,
-                settings_loc:["doc/Settings.xml", "Settings.xml"]
-            },
             list: result,
             lastSynced: new Date().toLocaleTimeString()
         }, null, 2)

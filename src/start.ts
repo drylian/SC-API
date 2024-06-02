@@ -20,6 +20,12 @@ async function start() {
             result.push({ ident: String(release.id), name: release.tag_name, link: getDownloadLink(release), cors })
         }
         const json = JSON.stringify({
+            configs:{
+                label:"Survivalcraft-API",
+                cors:true,
+                restart:true,
+                settings_loc:["doc/Settings.xml", "Settings.xml"]
+            },
             data: result,
             versions: "data",
             lastSynced: new Date().toLocaleTimeString()

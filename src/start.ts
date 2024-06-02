@@ -22,7 +22,7 @@ async function start() {
         }
         const json = JSON.stringify({
             config:{
-                label:"Survivalcraft-API",
+                api:"Survivalcraft-API",
                 cors:true,
                 restart:true,
                 settings_loc:["doc/Settings.xml", "Settings.xml"]

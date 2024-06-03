@@ -4,8 +4,8 @@ import fs from "fs";
 const config = {
     api:"Survivalcraft-API",
     cors:true,
-    restart:true,
-    settings_loc:["doc/Settings.xml", "Settings.xml"]
+    settings_template:"https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+    settings_location:"doc/Settings.xml"
 };
 async function start() {
     const apis = [

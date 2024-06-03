@@ -1,0 +1,66 @@
+<Settings>
+  <Setting Name="UsePrimaryMemoryBank" Value="False" />
+  <Setting Name="AllowInitialIntro" Value="True" />
+  <Setting Name="SoundsVolume" Value="1" />
+  <Setting Name="MusicVolume" Value="0.2" />
+  <Setting Name="VisibilityRange" Value="64" />
+  <Setting Name="UseVr" Value="False" />
+  <Setting Name="UIScale" Value="0.8" />
+  <Setting Name="ResolutionMode" Value="High" />
+  <Setting Name="ViewAngleMode" Value="Normal" />
+  <Setting Name="SkyRenderingMode" Value="Full" />
+  <Setting Name="TerrainMipmapsEnabled" Value="False" />
+  <Setting Name="ObjectsShadowsEnabled" Value="True" />
+  <Setting Name="Brightness" Value="0.8" />
+  <Setting Name="PresentationInterval" Value="1" />
+  <Setting Name="ShowGuiInScreenshots" Value="False" />
+  <Setting Name="ShowLogoInScreenshots" Value="True" />
+  <Setting Name="ScreenshotSize" Value="ScreenSize" />
+  <Setting Name="WindowMode" Value="Resizable" />
+  <Setting Name="GuiSize" Value="Smallest" />
+  <Setting Name="HideMoveLookPads" Value="False" />
+  <Setting Name="BlocksTextureFileName" Value="" />
+  <Setting Name="MoveControlMode" Value="Buttons" />
+  <Setting Name="LookControlMode" Value="EntireScreen" />
+  <Setting Name="LeftHandedLayout" Value="False" />
+  <Setting Name="FlipVerticalAxis" Value="False" />
+  <Setting Name="MoveSensitivity" Value="0.5" />
+  <Setting Name="LookSensitivity" Value="0.5" />
+  <Setting Name="GamepadDeadZone" Value="0.16" />
+  <Setting Name="GamepadCursorSpeed" Value="1" />
+  <Setting Name="CreativeDigTime" Value="0.2" />
+  <Setting Name="CreativeReach" Value="7.5" />
+  <Setting Name="MinimumHoldDuration" Value="0.5" />
+  <Setting Name="MinimumDragDistance" Value="10" />
+  <Setting Name="AutoJump" Value="False" />
+  <Setting Name="HorizontalCreativeFlight" Value="True" />
+  <Setting Name="DropboxAccessToken" Value="" />
+  <Setting Name="MotdUpdateUrl" Value="https://m.schub.top/com/motd?v={0}&amp;l={1}" />
+  <Setting Name="MotdUpdateCheckUrl" Value="https://m.schub.top/com/motd?v={0}&amp;cmd=version_check&amp;platform={1}&amp;apiv={2}&amp;l={3}" />
+  <Setting Name="ScpboxAccessToken" Value="" />
+  <Setting Name="ScpboxUserInfo" Value="" />
+  <Setting Name="MotdUseBackupUrl" Value="False" />
+  <Setting Name="MotdUpdatePeriodHours" Value="12" />
+  <Setting Name="MotdLastUpdateTime" Value="0" />
+  <Setting Name="MotdLastDownloadedData" Value="&lt;Motd UpdatePeriodHours=&quot;12&quot;&gt;&#xA;&#x9;&lt;Line Time=&quot;1&quot;&gt;&#xA;&#x9;&#x9;&lt;CanvasWidget xmlns=&quot;runtime-namespace:Game&quot; /&gt;&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;!-- &lt;Line Time=&quot;10&quot;&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;StackPanelWidget xmlns=&quot;runtime-namespace:Game&quot; Direction=&quot;Vertical&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;LabelWidget Text=&quot;Want to play Survivalcraft on your PC?&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; Font=&quot;{Fonts/Pericles18}&quot;/&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;StackPanelWidget xmlns=&quot;runtime-namespace:Game&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; &gt; --&gt;&#xA;&#x9;&lt;!-- &lt;LabelWidget Text=&quot;Download it from &quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; Font=&quot;{Fonts/Pericles18}&quot;/&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;LinkWidget Text=&quot;Windows Store&quot; Color=&quot;64, 192, 64&quot; Font=&quot;{Fonts/Pericles18u}&quot; VerticalAlignment=&quot;Center&quot; Url=&quot;https://www.microsoft.com/store/apps/9wzdncrfhvnl&quot; /&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;LabelWidget Text=&quot;!&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; Font=&quot;{Fonts/Pericles18}&quot;/&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;/StackPanelWidget&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;/StackPanelWidget&gt; --&gt;&#xA;&#x9;&lt;!-- &lt;/Line&gt; --&gt;&#xA;&#x9;&lt;Line Time=&quot;5&quot;&gt;&#xA;&#x9;&#x9;&lt;StackPanelWidget xmlns=&quot;runtime-namespace:Game&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&gt;&#xA;&#x9;&#x9;&#x9;&lt;LabelWidget Text=&quot;中文社区已上线&quot; VerticalAlignment=&quot;Center&quot; /&gt;&#xA;&#x9;&#x9;&#x9;&lt;LinkWidget Text=&quot;https://www.schub.top&quot; Color=&quot;64, 192, 64&quot; VerticalAlignment=&quot;Center&quot; Url=&quot;https://www.schub.top&quot; /&gt;&#xA;&#x9;&#x9;&#x9;&lt;LabelWidget Text=&quot; 可以在这里下载Mods&quot; VerticalAlignment=&quot;Center&quot; /&gt;&#xA;&#x9;&#x9;&lt;/StackPanelWidget&gt;&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;5&quot;&gt;&#xA;&#x9;&#x9;&lt;StackPanelWidget xmlns=&quot;runtime-namespace:Game&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&gt;&#xA;&#x9;&#x9;&#x9;&lt;LabelWidget Text=&quot;目前插件版已更新到V1.60正式版，如有Bug请前往社区反馈&quot; VerticalAlignment=&quot;Center&quot; /&gt;&#xA;&#x9;&#x9;&lt;/StackPanelWidget&gt;&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;地形高度增加到256格&#xA;&#x9;&#x9;可建造巨大的摩天大楼，攀登高山&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;放置过多家具时出现的故障已得到修复&#xA;&#x9;&#x9;有一个新的，更好的地形生成器&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;干旱地区现在种植合金欢树&#xA;&#x9;&#x9;山上覆盖着诡异的冰&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;食物腐烂减少，腐烂的食物&#xA;&#x9;&#x9;将最终变成堆肥，帮助耕种&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;看看新的平岛模式&#xA;&#x9;&#x9;平坦地形的海岸不再需要笔直&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;小心大白鲨在深海游荡&#xA;&#x9;&#x9;作为补偿，船已经变得更坚固&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;照明模型已经改进，&#xA;&#x9;&#x9;一切都应该更明亮，看起来更好&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;8&quot;&gt;&#xA;&#x9;&#x9;对于超过70个新增项目的完整列表，请查看&#xA;&#x9;&#x9;更新博客中的历史记录。祝你玩得开心！&#xA;&#x9;&lt;/Line&gt;&#xA;&#x9;&lt;Line Time=&quot;20&quot;&gt;&#xA;&#x9;&#x9;&lt;CanvasWidget xmlns=&quot;runtime-namespace:Game&quot; /&gt;&#xA;&#x9;&lt;/Line&gt;&#xA;&lt;/Motd&gt;&#xA;&lt;Motd2&gt;&#xA;&#x9;&lt;Bulletin Title=&quot;x24-03-04b5 | 联机更新公告&quot; EnTitle=&quot;null&quot; Time=&quot;2024/06/01 03:15&quot;&gt;&#xA;&#x9;&#x9;&lt;Content&gt;&#xA;&#x9;&#x9;&#x9;更新内容：&#xA;&#x9;&#x9;&#x9;1.服列表调整为页签选择&#xA;&#x9;&#x9;&#x9;2.移除安卓挂后台强制退服机制&#xA;&#x9;&#x9;&#x9;3.解决安卓创造模式挂后台有时人会喘气问题&#xA;&#x9;&#x9;&#x9;4.新增更多的日志记录&#xA;&#x9;&#x9;&#x9;5.解决服务端加mod客户端不加mod，进服会黑屏的问题&#xA;&#x9;&#x9;&#x9;6.安卓目标框架改为13，权限获取调整，解决黑边问题（由黑海支持）&#xA;&#x9;&#x9;&#x9;7.动物生成调整&#xA;&#x9;&#x9;&lt;/Content&gt;&#xA;&#x9;&#x9;&lt;EnContent&gt;&#xA;&#x9;&#x9;&#x9;https://www.schub.top&#xA;&#x9;&#x9;&lt;/EnContent&gt;&#xA;&#x9;&lt;/Bulletin&gt;&#xA;&lt;/Motd2&gt;&#xA;&lt;!-- 过滤模组 --&gt;&#xA;&lt;Motd3&gt;&#xA;&#x9;&lt;FilterMod Name=&quot;RYSH 有点真实の生存&quot; PackageName=&quot;rysh&quot; Version=&quot;all&quot; FilterAPIVersion=&quot;1.50&quot;&gt;&#xA;&#x9;&#x9;不太兼容当前插件版本(1.50)，游玩过程可能出现问题:无法吃东西或穿衣服。&#xA;&#x9;&#x9;解决方案：可以先使用插件版1.44游玩此mod。&#xA;&#x9;&lt;/FilterMod&gt;&#xA;&lt;/Motd3&gt;&#xA;&lt;Motd4&gt;&#xA;&#x9;&lt;Guns&gt;&#xA;&#x9;&lt;/Guns&gt;&#xA;&lt;/Motd4&gt;&#xA;" />
+  <Setting Name="UserId" Value="" />
+  <Setting Name="LastLaunchedVersion" Value="2.3.0.0" />
+  <Setting Name="CommunityContentMode" Value="Normal" />
+  <Setting Name="MultithreadedTerrainUpdate" Value="True" />
+  <Setting Name="EnableAndroidAudioTrackCaching" Value="False" />
+  <Setting Name="UseReducedZRange" Value="False" />
+  <Setting Name="IsolatedStorageMigrationCounter" Value="1" />
+  <Setting Name="DisplayFpsCounter" Value="False" />
+  <Setting Name="DisplayFpsRibbon" Value="False" />
+  <Setting Name="NewYearCelebrationLastYear" Value="2035" />
+  <Setting Name="ScreenLayout1" Value="Single" />
+  <Setting Name="ScreenLayout2" Value="DoubleVertical" />
+  <Setting Name="ScreenLayout3" Value="TripleVertical" />
+  <Setting Name="ScreenLayout4" Value="Quadruple" />
+  <Setting Name="UpsideDownLayout" Value="False" />
+  <Setting Name="FullScreenMode" Value="False" />
+  <Setting Name="DisplayLog" Value="False" />
+  <Setting Name="BulletinTime" Value="" />
+  <DisableMods />
+  <Configs Language="en-US" />
+</Settings>

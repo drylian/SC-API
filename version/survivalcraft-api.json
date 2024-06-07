@@ -2,7 +2,6 @@
   "list": [
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "326466",
@@ -11,7 +10,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "339945",
@@ -20,7 +18,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "346740",
@@ -29,7 +26,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "372059",
@@ -38,7 +34,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "388324",
@@ -47,7 +42,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "394257",
@@ -56,7 +50,6 @@
     },
     {
       "api": "Survivalcraft-API",
-      "cors": true,
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "397341",
@@ -64,5 +57,5 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SurvivalcraftAPI_TST_16368.7z"
     }
   ],
-  "lastSynced": "9:17:02 PM"
+  "lastSynced": "12:18:56 AM"
 }

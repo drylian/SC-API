@@ -3,7 +3,6 @@ import { writeFileSync } from 'fs'
 import fs from "fs";
 const config = {
     api:"Survivalcraft-API",
-    cors:true,
     settings_template:"https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
     settings_location:"doc/Settings.xml"
 };

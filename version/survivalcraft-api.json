@@ -4,14 +4,6 @@
       "api": "Survivalcraft-API",
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
-      "ident": "326466",
-      "name": "api1.52",
-      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.52/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.52%E6%B8%B2%E6%9F%93%E6%B5%8B%E8%AF%95.7z"
-    },
-    {
-      "api": "Survivalcraft-API",
-      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
-      "settings_location": "doc/Settings.xml",
       "ident": "339945",
       "name": "api1.44",
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.44.Apk.archive.7z"
@@ -57,5 +49,5 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SurvivalcraftAPI_TST_16368.7z"
     }
   ],
-  "lastSynced": "9:16:01 PM"
+  "lastSynced": "9:17:09 PM"
 }

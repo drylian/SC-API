@@ -20,22 +20,6 @@
       "api": "Survivalcraft-API",
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
-      "ident": "372059",
-      "name": "Api1.60P",
-      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/Api1.60P/SCAPI1.6Nano.7z"
-    },
-    {
-      "api": "Survivalcraft-API",
-      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
-      "settings_location": "doc/Settings.xml",
-      "ident": "388324",
-      "name": "1.61Q",
-      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/1.61Q/SCAPI1.61Q%E7%94%B5%E8%84%91%E7%89%88.7z"
-    },
-    {
-      "api": "Survivalcraft-API",
-      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
-      "settings_location": "doc/Settings.xml",
       "ident": "394257",
       "name": "1.61X_",
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/1.61X_/%5B%E7%94%B5%E8%84%91%E7%89%88%5DSCAPI_1.61X_Win64.7z"
@@ -57,5 +41,5 @@
       "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.71A/%5B%E7%94%B5%E8%84%91%E7%89%88%5D%5B%E5%BC%80%E5%8F%91%E8%80%85%E7%89%88%5DSurvivalCraftAPI_1.71A.7z"
     }
   ],
-  "lastSynced": "9:17:00 PM"
+  "lastSynced": "9:17:51 PM"
 }

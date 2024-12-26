@@ -8,7 +8,7 @@ const config = {
 };
 async function start() {
     const apis = [
-        { name: 'survivalcraft-api', path: 'zaihuishouzh/survivalcraft-api' }
+        { name: 'survivalcraft-api', path: 'THPRC/survivalcraft-api' }
     ]
     await fs.promises.mkdir("./version", { recursive: true })
     for (const { name, path } of apis) {

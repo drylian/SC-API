@@ -1,4 +1,45 @@
 {
-  "list": [],
-  "lastSynced": "9:16:53 PM"
+  "list": [
+    {
+      "api": "Survivalcraft-API",
+      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+      "settings_location": "doc/Settings.xml",
+      "ident": "339945",
+      "name": "api1.44",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.44/%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%88API1.44.Apk.archive.7z"
+    },
+    {
+      "api": "Survivalcraft-API",
+      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+      "settings_location": "doc/Settings.xml",
+      "ident": "346740",
+      "name": "api1.53P",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/api1.53P/%5B%E7%94%B5%E8%84%91%5D%E7%94%9F%E5%AD%98%E6%88%98%E4%BA%892.3%E6%8F%92%E4%BB%B6%E7%89%881.53P.7z"
+    },
+    {
+      "api": "Survivalcraft-API",
+      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+      "settings_location": "doc/Settings.xml",
+      "ident": "397341",
+      "name": "API1.63",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.63/SurvivalcraftAPI_TST_16368.7z"
+    },
+    {
+      "api": "Survivalcraft-API",
+      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+      "settings_location": "doc/Settings.xml",
+      "ident": "425355",
+      "name": "API1.71A",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.71A/%5B%E7%94%B5%E8%84%91%E7%89%88%5D%5B%E5%BC%80%E5%8F%91%E8%80%85%E7%89%88%5DSurvivalCraftAPI_1.71A.7z"
+    },
+    {
+      "api": "Survivalcraft-API",
+      "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
+      "settings_location": "doc/Settings.xml",
+      "ident": "447076",
+      "name": "API1.72",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.72/%5BWindows%5DSurvivalcraftAPI_1.72.7z"
+    }
+  ],
+  "lastSynced": "5:34:05 PM"
 }

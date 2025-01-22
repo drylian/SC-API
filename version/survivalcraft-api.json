@@ -45,9 +45,9 @@
       "settings_template": "https://raw.githubusercontent.com/drylian/SC-API/main/Settings.xml",
       "settings_location": "doc/Settings.xml",
       "ident": "464965",
-      "name": "API1.80",
-      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.80/%5BWindows%5DSurvivalcraftAPI_1.80.7z"
+      "name": "API1.801",
+      "link": "https://gitee.com/THPRC/survivalcraft-api/releases/download/API1.801/%5BWindows%5DSurvivalcraftAPI_1.80-1.7z"
     }
   ],
-  "lastSynced": "9:17:08 PM"
+  "lastSynced": "9:14:28 PM"
 }
